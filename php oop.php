@@ -17,7 +17,7 @@
 		//class body
 	}
 
-	/* lesson 1: Example 1 */
+	/* lesson 1: Example 1. */
 	$detective1 = new Detective();
 	$detective2 = new Detective();
 
